@@ -1,0 +1,37 @@
+---
+title: "Episodes"
+---
+
+We put the episodes here, including feed, description of newest episode, date posted, title of episode, link to individual episode's page
+
+---
+
+## <a href="episode002.html" title="Episode 2: Electic Boogaloo">Episode 2: Electic Boogaloo</a>
+
+<span style="color: grey;">10/20/2021</span>
+
+In this episode, some things are said, some choices are made, blah blah blah
+
+```{r echo=FALSE}
+library(embedr)
+audio <- "https://michaelmccarthy.netlify.app/files/embedr/audio-vignette.mp3"
+embed_audio(audio)
+```
+
+---
+
+---
+
+## <a href="episode001.html" title="Episode 1: The First of its Name">Episode 1: The First of its Name</a>
+
+<span style="color: grey;">10/20/2021</span>
+
+In this episode, some things are said, some choices are made, blah blah blah
+
+```{r echo=FALSE}
+library(embedr)
+audio <- "https://michaelmccarthy.netlify.app/files/embedr/audio-vignette.mp3"
+embed_audio(audio)
+```
+
+---

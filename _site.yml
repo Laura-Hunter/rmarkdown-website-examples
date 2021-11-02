@@ -7,6 +7,8 @@ navbar:
       href: index.html
     - text: "Contact"
       href: about.html
+    - text: "Episodes"
+      href: episodes.html
   right: 
     - icon: fa-envelope fa-lg
       href: mailto:<laurahunter@uchicago.com>
