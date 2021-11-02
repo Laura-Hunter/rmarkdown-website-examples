@@ -2,7 +2,4 @@
 title: "Contact Us"
 ---
 
-More about this website.
-
-```{r, child="_sessioninfo.Rmd"}
-```
+Contact info here
