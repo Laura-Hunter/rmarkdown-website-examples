@@ -1,8 +1,25 @@
 ---
 title: "My Website"
 ---
+\
 
-Hello, Website!
+# New episodes the first Tuesday of every month!
+\
 
-```{r, child="_sessioninfo.Rmd"}
-```
+## The Podcast
+Some stuff describing the inspiration for the podcast goes here, I guess...
+\
+\
+
+## The Hosts
+Maybe here we have each of our bios and pictures of us?
+\
+\
+
+## Listen to the Pod
+Here, we can put some of those icon links to the pod on various podcast platforms
+\
+\
+
+## Social Media
+There's a place in this website template that allows them at the top right of all pages, so that might be a good alternative.
