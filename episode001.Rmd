@@ -1,0 +1,26 @@
+---
+title: "Episode 1: The First of its Name"
+---
+
+This is where the description of episode 1 goes. That includes the general description of the episode, a player for the episode, a list of the references
+
+\
+
+```{r echo=FALSE}
+library(embedr)
+audio <- "https://michaelmccarthy.netlify.app/files/embedr/audio-vignette.mp3"
+embed_audio(audio)
+```
+
+\
+
+## References
+Beard, K.C. (1993). Phylogenetic systematics of Primatomorpha, with Special Reference to Dermoptera. Mammal Phylogeny 2:129-150.
+
+Bininda-Emonds, O. R. P., M. Cardillo, K. E. Jones, R. D. E. MacPhee, R. M. D. Beck, R. Greyner, S. A. Price, R. A. Vos, J. L. Gittleman, A. Purvis (2007). The delayed rise of present-day mammals. Nature 446:507-512. 
+
+Bloch, J.I., D.M. Boyer (2002). Grasping primate origins. Science 298:1606-1610. 
+
+Bloch, J. I., M. T. Silcox, D. M. Boyer, E. J. Sargis (2007). New Paleocene skeletons and the relationship of plesiadapiforms to crown-clade primates. Proceedings of the National Academy of Science 104:1159-1164.
+
+Cartmill, M. (1974). Rethinking primate origins. Science 184:436-443. 
