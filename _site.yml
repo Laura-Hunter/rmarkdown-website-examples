@@ -1,12 +1,23 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Life Lessons, Science Stories"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<laurahunter@uchicago.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/Laura-Hunter/
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/peachesbones
+    - icon: fa-instagram fa-lg
+      href: https://www.instagram.com/peachesbones/?hl=en
+    - icon: fa-facebook fa-lg
+      href: https://www.facebook.com/laurafossilhunter
 output:
   html_document:
     highlight: textmate
