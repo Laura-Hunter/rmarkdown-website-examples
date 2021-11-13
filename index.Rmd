@@ -1,20 +1,162 @@
 ---
-title: "Home"
+title: ""
 ---
 \
+<img src="trees_banner.png" width="1000">
 
-# New episodes the first Tuesday of every month!
+\
+\
+\
 \
 
-## The Podcast
+<h1 align="center" id="heading">The Podcast</h1>
 Some stuff describing the inspiration for the podcast goes here, I guess...
+
+\
+\
 \
 \
 
-## The Hosts
-Maybe here we have each of our bios and pictures of us?
+<h1 align="center" id="heading">Meet the Hosts</h1>
+
+<style>
+.column-left{
+  float: left;
+  width: 45%;
+  text-align: left;
+}
+.column-center{
+  float: left;
+  width: 10%;
+  text-align: left;
+}
+
+.column-right{
+  float: right;
+  width: 45%;
+  text-align: left;
+}
+</style>
+
+
+<div class="column-left">
+
+<img src="IMG-2178.jpg" width="500">
+
+<h3 align="center" id="heading">Julie Cuartas</h3>
+
+Julie Cuartas, M.S. is currently working in a molecular neuroscience lab studying neurodegeneration. She is the proud matriarch of her very own mouse colony, and loves discussing science, preferably outdoors and with plenty of coffee.
+</div>
+
+<div class="column-center">
+
+</div>
+
+<div class="column-right">
+<img src="IMG-9463.jpg" width="500">
+
+<h3 align="center" id="heading">Laura Hunter</h3>
+
+Laura Hunter is currently pursuing a PhD in a human evolution lab studying limb variation and evolvability. She plays way too much Dungeons & Dragons in her free time, and is always down to kick back an IPA and exchange cool animal facts.
+</div>
+
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
 \
 \
 
-## Listen to the Pod
-Here, we can put some of those icon links to the pod on various podcast platforms
+<h1 align="center" id="heading">Listen to the Pod</h1>
+
+/
+
+<style>
+.col1{
+  float: left;
+  width: 33%;
+  text-align: center;
+}
+.col2{
+  float: left;
+  width: 33%;
+  text-align: center;
+}
+
+.col3{
+  float: right;
+  width: 33%;
+  text-align: center;
+}
+</style>
+
+<div class="col1">
+<img src="spotify_logo.png" width="150">
+</div>
+
+<div class="col2">
+<img src="apple_podcasts_logo.png" width="150">
+</div>
+
+<div class="col3">
+<img src="youtube_logo.png" width="150">
+</div>
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+
+<div class="col1">
+<img src="google_podcast_logo.png" width="150">
+</div>
+
+<div class="col2">
+<img src="soundcloud_logo.png" width="150">
+</div>
+
+<div class="col3">
+<img src="amazon_music_logo.png" width="150">
+</div>

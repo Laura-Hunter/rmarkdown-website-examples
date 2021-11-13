@@ -1,7 +1,110 @@
 ---
-title: "Contact Us"
+title: ""
 ---
 
-Contact Info:
+<img src="print_banner.png" width="1000">
 
-For inquiries or to suggest a topic for one of our episodes, email us at lifelessonssciencestories@gmail.com or [click here](mailto:<lifelessonssciencestories@gmail.com>).
+\
+
+### For inquiries or to suggest a topic for one of our episodes, email us at lifelessonssciencestories@gmail.com or [click here](mailto:<lifelessonssciencestories@gmail.com>).
+
+\
+\
+\
+
+<h1 align="center" id="heading">Social Media</h1>
+
+\
+\
+
+<style>
+.col1{
+  float: left;
+  width: 33%;
+  text-align: center;
+}
+.col2{
+  float: left;
+  width: 33%;
+  text-align: center;
+}
+
+.col3{
+  float: right;
+  width: 33%;
+  text-align: center;
+}
+</style>
+
+<div class="col1">
+<img src="twitter_logo.png" width="100">
+</div>
+
+<div class="col2">
+<img src="instagram_logo.png" width="100">
+</div>
+
+<div class="col3">
+<img src="facebook_logo.png" width="100">
+</div>
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+<h1 align="center" id="heading">Want to Check Out the Hosts' Social Media?</h1>
+
+\
+\
+
+<style>
+.column-left{
+  float: left;
+  width: 45%;
+  text-align: center;
+}
+.column-center{
+  float: left;
+  width: 10%;
+  text-align: left;
+}
+
+.column-right{
+  float: right;
+  width: 45%;
+  text-align: center;
+}
+</style>
+
+
+<div class="column-left">
+<h3 align="center" id="heading">Julie Cuartas</h3>
+<img src="instagram_logo.png" width="100">
+
+</div>
+
+<div class="column-center">
+
+</div>
+
+<div class="column-right">
+
+
+<h3 align="center" id="heading">Laura Hunter</h3>
+<img src="instagram_logo.png" width="100">
+<img src="twitter_logo.png" width="100">
+</div>
+

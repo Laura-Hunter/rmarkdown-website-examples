@@ -1,6 +1,8 @@
 ---
-title: "Episodes"
+title: ""
 ---
+
+<img src="chimp_banner.png" width="1000">
 
 We put the episodes here, including feed, description of newest episode, date posted, title of episode, link to individual episode's page
 
