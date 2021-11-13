@@ -2,7 +2,7 @@
 title: ""
 ---
 
-<img src="print_banner.png" width="1000">
+<img src="pics/print_banner.png" width="1000">
 
 \
 
@@ -37,15 +37,15 @@ title: ""
 </style>
 
 <div class="col1">
-[<img src="twitter_logo.png" width="100">](https://twitter.com/storiesscience)
+[<img src="pics/twitter_logo.png" width="100">](https://twitter.com/storiesscience)
 </div>
 
 <div class="col2">
-[<img src="instagram_logo.png" width="100">](https://www.instagram.com/lifelessonssciencestories/?hl=en)
+[<img src="pics/instagram_logo.png" width="100">](https://www.instagram.com/lifelessonssciencestories/?hl=en)
 </div>
 
 <div class="col3">
-[<img src="facebook_logo.png" width="100">](https://facebook.com/Life-Lessons-Science-Stories-112126557929267/)
+[<img src="pics/facebook_logo.png" width="100">](https://facebook.com/Life-Lessons-Science-Stories-112126557929267/)
 </div>
 
 \
@@ -92,7 +92,7 @@ title: ""
 
 <div class="column-left">
 <h3 align="center" id="heading">Julie Cuartas</h3>
-[<img src="instagram_logo.png" width="100">](https://www.Instagram.com/mousewomanjulie/?hl=en )
+[<img src="pics/instagram_logo.png" width="100">](https://www.Instagram.com/mousewomanjulie/?hl=en )
 
 </div>
 
@@ -104,7 +104,7 @@ title: ""
 
 
 <h3 align="center" id="heading">Laura Hunter</h3>
-[<img src="instagram_logo.png" width="100">](https://www.instagram.com/peachesbones/?hl=en)
-[<img src="twitter_logo.png" width="100">](https://twitter.com/peachesbones)
+[<img src="pics/instagram_logo.png" width="100">](https://www.instagram.com/peachesbones/?hl=en)
+[<img src="pics/twitter_logo.png" width="100">](https://twitter.com/peachesbones)
 </div>
 

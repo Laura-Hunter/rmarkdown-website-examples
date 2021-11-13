@@ -2,7 +2,7 @@
 title: ""
 ---
 \
-<img src="trees_banner.png" width="1000">
+<img src="pics/trees_banner.png" width="1000">
 
 \
 \
@@ -41,7 +41,7 @@ Some stuff describing the inspiration for the podcast goes here, I guess...
 
 <div class="column-left">
 
-<img src="IMG-2178.jpg" width="500">
+<img src="pics/IMG-2178.jpg" width="500">
 
 <h3 align="center" id="heading">Julie Cuartas</h3>
 
@@ -53,7 +53,7 @@ Julie Cuartas, M.S. is currently working in a molecular neuroscience lab studyin
 </div>
 
 <div class="column-right">
-<img src="IMG-9463.jpg" width="500">
+<img src="pics/IMG-9463.jpg" width="500">
 
 <h3 align="center" id="heading">Laura Hunter</h3>
 
@@ -125,15 +125,15 @@ Laura Hunter is currently pursuing a PhD in a human evolution lab studying limb 
 </style>
 
 <div class="col1">
-<img src="spotify_logo.png" width="150">
+<img src="pics/spotify_logo.png" width="150">
 </div>
 
 <div class="col2">
-<img src="apple_podcasts_logo.png" width="150">
+<img src="pics/apple_podcasts_logo.png" width="150">
 </div>
 
 <div class="col3">
-<img src="youtube_logo.png" width="150">
+<img src="pics/youtube_logo.png" width="150">
 </div>
 
 \
@@ -150,13 +150,13 @@ Laura Hunter is currently pursuing a PhD in a human evolution lab studying limb 
 
 
 <div class="col1">
-<img src="google_podcast_logo.png" width="150">
+<img src="pics/google_podcast_logo.png" width="150">
 </div>
 
 <div class="col2">
-<img src="soundcloud_logo.png" width="150">
+<img src="pics/soundcloud_logo.png" width="150">
 </div>
 
 <div class="col3">
-<img src="amazon_music_logo.png" width="150">
+<img src="pics/amazon_music_logo.png" width="150">
 </div>

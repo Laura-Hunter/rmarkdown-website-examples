@@ -2,7 +2,7 @@
 title: ""
 ---
 
-<img src="chimp_banner.png" width="1000">
+<img src="pics/chimp_banner.png" width="1000">
 
 We put the episodes here, including feed, description of newest episode, date posted, title of episode, link to individual episode's page
 
@@ -16,7 +16,7 @@ In this episode, some things are said, some choices are made, blah blah blah
 
 ```{r echo=FALSE}
 library(embedr)
-audio <- "https://michaelmccarthy.netlify.app/files/embedr/audio-vignette.mp3"
+audio <- "audio_files/sd_pop.mp3"
 embed_audio(audio)
 ```
 
@@ -32,7 +32,7 @@ In this episode, some things are said, some choices are made, blah blah blah
 
 ```{r echo=FALSE}
 library(embedr)
-audio <- "https://michaelmccarthy.netlify.app/files/embedr/audio-vignette.mp3"
+audio <- "audio_files/sd_pop.mp3"
 embed_audio(audio)
 ```
 
